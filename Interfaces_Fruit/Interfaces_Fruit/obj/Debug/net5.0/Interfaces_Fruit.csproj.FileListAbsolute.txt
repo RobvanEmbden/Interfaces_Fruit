@@ -1,0 +1,15 @@
+/Users/rob/Projects/Interfaces_Fruit/Interfaces_Fruit/bin/Debug/net5.0/Interfaces_Fruit.deps.json
+/Users/rob/Projects/Interfaces_Fruit/Interfaces_Fruit/bin/Debug/net5.0/Interfaces_Fruit.runtimeconfig.json
+/Users/rob/Projects/Interfaces_Fruit/Interfaces_Fruit/bin/Debug/net5.0/Interfaces_Fruit.runtimeconfig.dev.json
+/Users/rob/Projects/Interfaces_Fruit/Interfaces_Fruit/bin/Debug/net5.0/Interfaces_Fruit.dll
+/Users/rob/Projects/Interfaces_Fruit/Interfaces_Fruit/bin/Debug/net5.0/ref/Interfaces_Fruit.dll
+/Users/rob/Projects/Interfaces_Fruit/Interfaces_Fruit/bin/Debug/net5.0/Interfaces_Fruit.pdb
+/Users/rob/Projects/Interfaces_Fruit/Interfaces_Fruit/obj/Debug/net5.0/Interfaces_Fruit.csprojAssemblyReference.cache
+/Users/rob/Projects/Interfaces_Fruit/Interfaces_Fruit/obj/Debug/net5.0/Interfaces_Fruit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Projects/Interfaces_Fruit/Interfaces_Fruit/obj/Debug/net5.0/Interfaces_Fruit.AssemblyInfoInputs.cache
+/Users/rob/Projects/Interfaces_Fruit/Interfaces_Fruit/obj/Debug/net5.0/Interfaces_Fruit.AssemblyInfo.cs
+/Users/rob/Projects/Interfaces_Fruit/Interfaces_Fruit/obj/Debug/net5.0/Interfaces_Fruit.csproj.CoreCompileInputs.cache
+/Users/rob/Projects/Interfaces_Fruit/Interfaces_Fruit/obj/Debug/net5.0/Interfaces_Fruit.dll
+/Users/rob/Projects/Interfaces_Fruit/Interfaces_Fruit/obj/Debug/net5.0/ref/Interfaces_Fruit.dll
+/Users/rob/Projects/Interfaces_Fruit/Interfaces_Fruit/obj/Debug/net5.0/Interfaces_Fruit.pdb
+/Users/rob/Projects/Interfaces_Fruit/Interfaces_Fruit/obj/Debug/net5.0/Interfaces_Fruit.genruntimeconfig.cache
